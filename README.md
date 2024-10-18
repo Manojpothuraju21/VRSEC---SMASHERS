@@ -1,10 +1,27 @@
 ## College Name - Team Name
-Provide details of team members 
+ VRSEC - SMASHERS
 
 ## Problem Statement
-Provide description of which Theme and Problem statement you are attempting
+Intelligent Peer to Peer learning Platform
 
 ## Instructions on running your project
-Provide detailed steps to get your project up and running, including any dependencies
-
+ Set Up a Virtual Environment (Optional but Recommended)
+ Activate the Virtual Environment
+Install Required Packages
+    Install Flask, Flask-SQLAlchemy, and Flask-CORS
+Set Up the Database
+Run the Flask Backend
+Set Up the Frontend
+peer-to-peer-learning/
+│
+├── backend/
+│   ├── app.py
+│   ├── users.db
+│   ├── venv/ (your virtual environment)
+│
+└── frontend/
+    ├── index.html
+    ├── match.html
+    ├── match_peers.js
+    └── other frontend files...
 ## References
